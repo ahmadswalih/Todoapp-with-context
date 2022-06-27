@@ -9,7 +9,13 @@
   </a>
 </p>
 
-> This is a Todo application where user can add and mark as complete their tods
+> This is a Todo application where user can add and delete(mark as delete) their todos. The applicaiton is designed using ReactJs . The main goal with the application is to get familiarize with context api. 
+
+### Features
+ 
+ - Uses Context Api
+ - Designed using Boostrap/reactstrap
+ - Uses React Icons
 
 ### 🏠 [Homepage](src/App.js)
 
