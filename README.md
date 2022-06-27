@@ -43,7 +43,7 @@ npm run test
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]([Todoapp-with-context/issues](https://github.com/ahmadswalih/Todoapp-with-context/issues)). You can also take a look at the [contributing guide]([CONTRIBUTING.md](https://github.com/ahmadswalih/Todoapp-with-context/blob/master/CONTRIBUTING.md)).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](Todoapp-with-context/issues). You can also take a look at the [contributing guide](CONTRIBUTING.md).
 
 ## Show your support
 
